@@ -1,1 +1,6 @@
-pip install streamlit pandas numpy plotly pulp openpyxl
+streamlit
+pandas
+numpy
+plotly
+pulp
+openpyxl
